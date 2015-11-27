@@ -1,5 +1,5 @@
 {
-    "name": "larapack/attribute-hasing",
+    "name": "larapack/attribute-hashing",
     "description": "Allows you to define what attributes in your Eloquent Model which should be hashed.",
     "keywords": ["package", "laravel", "larapack", "hash", "hashing", "attribute"],
     "license": "MIT",
