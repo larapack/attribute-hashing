@@ -1,0 +1,15 @@
+{
+    "name": "larapack/attribute-hasing",
+    "description": "Allows you to define what attributes in your Eloquent Model which should be hashed.",
+    "keywords": ["package", "laravel", "larapack", "hash", "hashing", "attribute"],
+    "license": "MIT",
+    "type": "package",
+    "require": {
+        "larapack/attribute-manipulation": "1.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "": "src/"
+        }
+    }
+}
