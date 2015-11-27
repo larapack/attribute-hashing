@@ -1,6 +1,6 @@
 <?php
 
-namespace Larapack\AttributeHasing;
+namespace Larapack\AttributeHashing;
 
 use Hash;
 use Exception;
